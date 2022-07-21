@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I am currently learning Javascript
